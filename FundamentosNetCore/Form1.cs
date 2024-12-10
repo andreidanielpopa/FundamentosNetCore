@@ -17,7 +17,7 @@ namespace FundamentosNetCore
 
             this.txtNombre.TextAlign = HorizontalAlignment.Center;
 
-            this.btnPulsar.BackColor = Color.SlateBlue;
+            this.btnPulsar.BackColor = Color.SlateBlue; 
         }
     }
 }
